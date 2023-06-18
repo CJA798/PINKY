@@ -31,4 +31,5 @@ Tiny forklift robot that uses computer vision to find objects, pick them up and 
 - [ ] Use a sensor fusion method to combine cameras, ToF, IMU, and encoder data for path planning
 - [ ] Make a more compact chassis
 - [ ] Simplify and clean wiring
+   - [ ] Make custom PCB
 

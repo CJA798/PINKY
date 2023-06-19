@@ -9,7 +9,7 @@ Tiny forklift robot that uses computer vision to find objects, pick them up and 
 - LM2596S DC to DC Buck Converterwith Digital Voltmeter Display
 - TATTU 650mAh 2S 7.4V 75C LiPo Battery Pack
 - Switch
-- 2x Adafruit DRV8833 DC/Stepper Motor Driver Breakout Board
+- Adafruit DRV8833 DC/Stepper Motor Driver Breakout Board
 - 2x N20 DC Motor with Magnetic Encoder - 6V with 1:150 Gear Ratio
 - 2x Technic Lego Wheel and Tire Set (Mindstorms nxt ev3 tyre)
 - Future Upgrades:

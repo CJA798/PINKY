@@ -6,7 +6,7 @@ Tiny forklift robot that uses computer vision to find objects, pick them up and 
 - Arduino Nicla Vision
 - Raspberry Pi Pico
 - LM2596 DC to DC Buck Converter
-- LM2596S DC to DC Buck Converterwith Digital Voltmeter Display
+- LM2596S DC to DC Buck Converter with Digital Voltmeter Display
 - TATTU 650mAh 2S 7.4V 75C LiPo Battery Pack
 - Switch
 - Adafruit DRV8833 DC/Stepper Motor Driver Breakout Board

@@ -23,10 +23,10 @@ Tiny forklift robot that uses computer vision to find objects, pick them up and 
 - [ ] Train object detection model
 - [ ] Figure out if reading data directly from ToF's I2C channel works on the Pico
 - [ ] Write code to get sensor data
-  - [ ] Nicla Vision ToF
-  - [ ] Nicla Vision IMU
-  - [ ] Nicla Vision camera
-  - [ ] Pi 4B camera
+  - [X] Nicla Vision ToF
+  - [X] Nicla Vision IMU
+  - [X] Nicla Vision camera
+  - [X] Pi 4B camera
   - [ ] Pico magnetic encoders
 - [ ] Use a sensor fusion method to combine cameras, ToF, IMU, and encoder data for path planning
 - [ ] Make a more compact chassis
